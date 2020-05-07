@@ -1,0 +1,89 @@
+header{
+   text-align: center;
+
+}
+header:hover{
+         background-color: darkblue;
+         color: darkgoldenrod;
+}
+
+
+img:hover{
+    background-color: darkgoldenrod;
+    
+
+
+}
+.details{
+    width: 450px;
+    display: inline-block;
+    margin: 40px;
+}
+#item-details{
+    width: 350px;
+
+
+}
+nav{
+    border-bottom: 1px solid #f2f2f2;
+    border-top: 1px solid #f2f2f2;
+    padding-left: 170px;
+}
+nav ul li{
+    list-style: none;
+    margin: 8px;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #9f9f9f;
+    font-weight: bolder;
+    font-size: 18px;
+}
+input{
+    height: 23px;
+    width: 144px;
+    BORDER-RADIUS: 21PX;
+    text-align: center;
+
+}
+related-products{
+    display: inline;
+}
+h3{
+    color: rgb(6, 250, 230);
+font-size: 20px;
+
+
+}
+h5{
+    font-size: 20px;
+    color:slategrey ;}
+
+    figure{
+        display: inline-block;
+        height: 100px;
+        width: 150px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
